@@ -94,6 +94,18 @@ I built a data visualization (charts) using Excel.
 
 <img width="927" height="289" alt="image" src="https://github.com/user-attachments/assets/11de8225-1014-4f81-b99c-7966c4576531" />
 
+<img width="934" height="292" alt="image" src="https://github.com/user-attachments/assets/ca348459-d6bc-4aca-9b7b-70dd7c1b09ca" />
+
+Year: 2016
+
+<img width="931" height="290" alt="image" src="https://github.com/user-attachments/assets/90459f98-f49c-4274-a42c-34283ed97d41" />
+
+Year: 2017
+
+<img width="931" height="294" alt="image" src="https://github.com/user-attachments/assets/4694fb6e-5149-436c-842e-0332f48f52a3" />
+
+Year: 2018
+
 Conclusion
 --------------------------
 
