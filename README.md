@@ -108,6 +108,7 @@ Conclusion
 #DataAnalytics #SupplyChain #Ecommerce #OrderProcessing #Portfolio #Excel #PowerQuery
 
 Source: Brazilian E-Commerce Public Dataset by Olist, Kaggle
+
 Reference: 
 1. https://github.com/tolamoye/Olist-E-commerce-Data-Analysis
 2. https://medium.com/@tobye070/the-exploratory-data-analysis-on-olist-e-commerce-dataset-cbddd09d936c
