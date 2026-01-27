@@ -16,7 +16,7 @@ I selected only the tables relevant to my experiance, focusing on order processi
 4. olist_customers_dataset
 
 Built using:
-Excel | Power Query | Pivot Tables
+Excel | Power Query | Pivot Tables | Power Pivot
 
 This project shows how data can support better order processing and logistics planning.
 
