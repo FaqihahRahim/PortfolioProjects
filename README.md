@@ -1,13 +1,9 @@
-Olist Supply Chain & Order Processing Analysis
+🚀 Just completed an OLIST SALES FULFILLMENT AND DELIVERY PERFORMANCE ANALYSIS!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/a2424bb2-2a4b-44c6-9388-a9174b9c1cb9" />
 
-
-
-
-🚀 Just completed an OLIST SALES FULFILLMENT AND DELIVERY PERFORMANCE ANALYSIS!
 
 Overview
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
