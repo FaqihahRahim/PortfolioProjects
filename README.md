@@ -102,14 +102,15 @@ Year: 2016
 
 Year: 2017
 
-<img width="931" height="294" alt="image" src="https://github.com/user-attachments/assets/4694fb6e-5149-436c-842e-0332f48f52a3" />
+<img width="800" height="246" alt="image" src="https://github.com/user-attachments/assets/9fec6926-9873-4bb4-8449-5837b8e23c44" />
+
 
 Year: 2018
 
 Conclusion
 --------------------------
 
-📈Olist overall revenue had a consistent rise throughout the years but peaked demand in November 2018 (especially during the Black Friday week)
+📈Olist overall revenue had a consistent rise throughout the years but peaked demand in November 2017 (especially during the Black Friday week)
 
 ⏱️Indication shows in strong delivery performance in Apr – Aug because delivery time is lower than average delivery: shorter delivery time, high delivery rate = faster fulfillment = better operational performance
 
